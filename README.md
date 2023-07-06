@@ -37,7 +37,7 @@
     
     
     
-  ![daehyuh318's GitHub stats](https://github-readme-stats.vercel.app/api?username=daehyuh318&show_icons=true&theme=tokyonight)
+  ![daehyuh's GitHub stats](https://github-readme-stats.vercel.app/api?username=daehyuh&show_icons=true&theme=tokyonight)
    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daehyuh)](https://solved.ac/daehyuh/)
     
   </div>
@@ -94,12 +94,12 @@
 <h1>💰 수행 사업/프로젝트 💰</h1>
 <div align=center>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh318&repo=PatrascheProject)](https://github.com/daehyuh318/PatrascheProject)   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh318&repo=ZedProject)](https://github.com/daehyuh318/ZedProject)   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh318&repo=LidarProject)](https://github.com/daehyuh318/LidarProject)   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh318&repo=TrafficLightProject)](https://github.com/daehyuh318/TrafficLightProject)     
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh318&repo=University-API)](https://github.com/daehyuh318/University-API)   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh318&repo=Self-Check-Macro)](https://github.com/daehyuh318/Self-Check-Macro)   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh&repo=PatrascheProject)](https://github.com/daehyuh/PatrascheProject)   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh&repo=ZedProject)](https://github.com/daehyuh/ZedProject)   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh&repo=LidarProject)](https://github.com/daehyuh/LidarProject)   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh&repo=TrafficLightProject)](https://github.com/daehyuh/TrafficLightProject)     
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh&repo=University-API)](https://github.com/daehyuh/University-API)   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daehyuh&repo=Self-Check-Macro)](https://github.com/daehyuh/Self-Check-Macro)   
 
 </div>
 
@@ -121,8 +121,8 @@ import requests
 from bs4 import BeautifulSoup as bs
 
 status = ""
-user = "daehyuh318"
-repo = "daehyuh318"
+user = "daehyuh"
+repo = "daehyuh"
 fullurl = user + "%2F" + repo
 
 while True:
@@ -152,7 +152,7 @@ I'm raising my ranking https://hits.seeyoufarm.com/#rank
 ### 👑 7/9 4th 👑 
 ### 👑 7/18 5th 👑
 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaehyuh318%2Fdaehyuh318&count_bg=%23638FDA&title_bg=%23555555&icon=ghostery.svg&icon_color=%23E7E7E7&title=Github+%28%EC%98%A4%EB%8A%98+%EB%B0%A9%EB%AC%B8%EC%9E%90+%2F+%EC%A0%84%EC%B2%B4+%EB%B0%A9%EB%AC%B8%EC%9E%90%29&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaehyuh%2Fdaehyuh&count_bg=%23638FDA&title_bg=%23555555&icon=ghostery.svg&icon_color=%23E7E7E7&title=Github+%28%EC%98%A4%EB%8A%98+%EB%B0%A9%EB%AC%B8%EC%9E%90+%2F+%EC%A0%84%EC%B2%B4+%EB%B0%A9%EB%AC%B8%EC%9E%90%29&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
 
